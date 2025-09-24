@@ -1,13 +1,13 @@
 <resources>
     <!--  공통리소스  -->
-    <string name="app_name">치유가 되는 힐링 사운드</string>
+    <string name="app_name">힐링 사운드: 음악 테라피</string>
     <string name="copy_right">ⓒ2025. MiniGameDev All rights reserved.</string>
     <string name="common_confirm">확인</string>
     <string name="common_cancel">취소</string>
     <string name="common_hour">시간</string>
     <string name="common_min">분</string>
     <string name="common_sec">초</string>
-    <string name="common_singer">아티스트</string>
+    <string name="common_singer">#해시태그</string>
 
     <!--  음악관련 리소스  -->
     <string name="music_type_all">전체</string>
@@ -38,7 +38,7 @@
     <string name="main_back_press">이전 버튼을 한번더 누르면 앱이 종료됩니다.</string>
 
     <!--  재생 화면  -->
-    <string name="player_share_text">치유가 되는 힐링 사운드, 백색소음으로 생활의 평안을 누려보세요.</string>
+    <string name="player_share_text">💫 오늘 하루, 당신만의 치유의 순간을 경험해 보세요. 작은 소리가 마음을 포근히 감싸 안아줄 거예요. 🌙✨</string>
     <string name="player_repeat_on">한곡 반복</string>
     <string name="player_repeat_off">한곡 반복 해제</string>
 

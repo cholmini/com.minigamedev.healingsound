@@ -4,11 +4,11 @@ public class AdMobConst {
     // 광고 아이디
     public enum ADID {
         // 띠배너
-        BANNER("ca-app-pub-1135958776171939/8433742995"),
+        BANNER("ca-app-pub-1135958776171939/4101762344"),
         // 전면
-        PAGE("ca-app-pub-1135958776171939/4567189178"),
+        PAGE("ca-app-pub-1135958776171939/5127069400"),
         // 동영상
-        REWARD("ca-app-pub-1135958776171939/4947861924"),
+        REWARD("ca-app-pub-1135958776171939/2788680675"),
         ;
 
         private final String label;

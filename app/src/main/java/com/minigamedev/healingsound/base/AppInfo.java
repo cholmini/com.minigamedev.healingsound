@@ -13,6 +13,6 @@ public class AppInfo {
 
     // 공유 URL
     static public String getShareUrl() {
-        return "https://www.minigamedev.com/";
+        return "https://play.google.com/store/apps/details?id=com.minigamedev.healingsound";
     }
 }

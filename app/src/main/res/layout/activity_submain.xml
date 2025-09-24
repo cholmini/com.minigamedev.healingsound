@@ -10,13 +10,14 @@
     android:id="@+id/llParent"
     tools:context=".ui.SubMainActivity">
 
+    <!--
     <View
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="0.5"
-        android:orientation="vertical"/>
+        android:orientation="vertical"/> -->
 
-    <!--  앱 타이틀  -->
+    <!--  앱 타이틀
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -49,7 +50,14 @@
             app:layout_constraintStart_toEndOf="@id/guideline"
             app:layout_constraintTop_toBottomOf="@id/tvTitle1"/>
 
-    </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout> -->
+
+    <!--  로고  -->
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/img_main_logo"/>
 
     <!--  Gif 이미지  -->
     <ImageView
